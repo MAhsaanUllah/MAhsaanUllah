@@ -30,7 +30,7 @@ Here are some of my favorite works 👇
 |---------|-------------|------------|
 | [**Customer Support Chatbot**](https://github.com/MAhsaanUllah/customer-support-chatbot) | Chatbot to automate customer support. | Python • NLP |
 | [**Voice Cloner Project**](https://github.com/MAhsaanUllah/Voice-Cloner-Project) | Mimics human voice using ML. | Python • Deep Learning |
-| [**Emotion Detection App**](https://github.com/MAhsaanUllah/Emotion_Detection_App) | Detects emotions via images/webcam. | Python • CV |
+| [**Emotion Detection App**](https://github.com/MAhsaanUllah/Emotion_Detection_App) | Detects emotions via text message. | Python • streamlit Dashboard |
 | [**Customer Feedback Analyzer**](https://github.com/MAhsaanUllah/Customer-Feedback-Analyzer) | Extracts insights from text reviews. | Python • NLP |
 | [**Aspect Based Sentiment Analysis (ABSA)**](https://github.com/MAhsaanUllah/Aspect-Based-Sentiment-Analysis-ABSA) | Breaks down reviews into aspects & sentiment. | Python • NLP |
 | [**PDF-RAG-Chatbot-Gemini**](https://github.com/MAhsaanUllah/PDF-RAG-Chatbot-Gemini) | RAG chatbot with Gemini API to query PDFs. | Python • LLMs |
