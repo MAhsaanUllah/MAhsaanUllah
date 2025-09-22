@@ -81,8 +81,7 @@ Here are some of my favorite works 👇
 ---
 
 ## 📬 Contact
-
-📧 Email: *your-email@example.com*  
+ 
 💼 LinkedIn: [in/muhammad-ahsaan-ullah-profile](https://www.linkedin.com/in/muhammad-ahsaan-ullah-profile)  
 🐦 Twitter: [@real_ahsaan](https://twitter.com/real_ahsaan)  
 
