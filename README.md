@@ -96,16 +96,13 @@ I care about **clarity, reproducibility, and explaining my work well in intervie
 
 ---
 
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAhsaanUllah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAhsaanUllah&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAhsaanUllah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MAhsaanUllah&theme=default)
+
+
 
 
 ---
