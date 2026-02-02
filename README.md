@@ -1,61 +1,97 @@
-# Muhammad Ahsaan Ullah
-**AI & ML Engineer | Lead @ DeepFakeShield 🛡️** *Specializing in AI Automation, Computer Vision, and Intelligent Systems.*
+# ◼️ Muhammad Ahsaan Ullah  
+**AI & ML Engineer | Lead @ DeepFakeShield 🛡️**  
+*Building production-ready AI systems across Computer Vision, Automation, and Data Intelligence.*
 
 ---
 
-### ◼️ Profile Summary
-- [cite_start]💻 **Core Focus**: Engineering AI systems that solve real-world security and automation gaps[cite: 66, 74].
-- [cite_start]🎓 **Education**: Final-year BS Computer Science (7th Sem) @ UMT[cite: 62, 172].
-- ⚙️ **Philosophy**: Move beyond notebooks. Build scalable APIs, RAG agents, and automated ETLs.
-- 📍 **Status**: Actively seeking Junior AI/ML or Data roles (Lahore / Remote).
+## ◼️ Profile Summary
+- 🎓 **Education**: Final-year BS Computer Science (7th Semester), University of Management and Technology  
+- 💻 **Core Focus**: Designing AI solutions for real-world security, automation, and analytics problems  
+- ⚙️ **Engineering Mindset**: From notebooks → scalable APIs, RAG agents, and automated ETL pipelines  
+- 📍 **Availability**: Open to Junior AI / ML / Data roles (Lahore & Remote)
 
 ---
 
-### ◼️ Top Technical Pillars
-- [cite_start]**Forensic AI**: Lead Developer of DeepFakeShield, detecting synthetic media artifacts[cite: 66, 155].
-- **AI Automation**: Building RAG-based agents with Gemini 2.5 Flash and n8n orchestration.
-- [cite_start]**Data Analytics**: Transforming raw data into business intelligence via SQL and Power BI[cite: 39, 140].
+## ◼️ Technical Pillars
+- **Forensic AI**  
+  Lead developer of **DeepFakeShield**, an AI system for detecting manipulated images and videos using deep learning.
+
+- **AI Automation & RAG**  
+  Building Retrieval-Augmented Generation agents using **Gemini 2.5 Flash**, vector databases, and **n8n** orchestration.
+
+- **Data Analytics & BI**  
+  Converting raw datasets into actionable insights using optimized SQL pipelines and Power BI dashboards.
 
 ---
 
-### ◼️ Featured Repositories
+## ◼️ Featured Repositories
 
-#### [DeepFakeShield-FYP](https://github.com/MAhsaanUllah) (🛡️ Lead Developer)
-**AI forensic system for identifying manipulated images and videos.**
-- [cite_start]**Tech**: Python, PyTorch, XceptionNet, EfficientNet-B0, FastAPI[cite: 140, 141, 142].
-- [cite_start]**Impact**: Targeted accuracy of 85-92% using frame-level analysis and transfer learning[cite: 152, 153].
+### 🛡️ DeepFakeShield (FYP) — *Lead Developer*  
+**Unified AI forensic system for identifying manipulated images and videos.**  
+🔗 https://github.com/MAhsaanUllah  
 
-#### [Enterprise-RAG-Support-Automation](https://github.com/MAhsaanUllah/Enterprise-RAG-Support-Automation)
-**Industrial-grade RAG agent for machinery troubleshooting.**
-- **Tech**: Gemini 2.5 Flash, Pinecone Vector DB, n8n.
-- **Impact**: Automates complex troubleshooting via Retrieval-Augmented Generation.
+**Tech Stack**
+- Python, PyTorch  
+- XceptionNet, EfficientNet-B0  
+- FastAPI  
 
-#### [n8n-python-data-etl](https://github.com/MAhsaanUllah/n8n-python-data-etl)
-**Hybrid low-code/script-based ETL pipeline.**
-- **Tech**: n8n, Python (Pandas/NumPy), JSON Processing.
-- **Impact**: Automates raw data sanitation and reduces manual reporting effort.
+**Impact**
+- Achieved **85–92% detection accuracy** via frame-level analysis  
+- Leveraged transfer learning for robust deepfake generalization  
 
 ---
 
-### ◼️ Tech Stack
+### 🤖 Enterprise RAG Support Automation  
+**Industrial-grade RAG agent for machinery troubleshooting.**  
+🔗 https://github.com/MAhsaanUllah/Enterprise-RAG-Support-Automation  
+
+**Tech Stack**
+- Google Gemini 2.5 Flash  
+- Pinecone Vector Database  
+- n8n Automation  
+
+**Impact**
+- Automates complex troubleshooting workflows  
+- Reduces dependency on manual technical support  
+
+---
+
+### 🔄 n8n Python Data ETL  
+**Hybrid low-code + Python-based ETL pipeline.**  
+🔗 https://github.com/MAhsaanUllah/n8n-python-data-etl  
+
+**Tech Stack**
+- n8n  
+- Python (Pandas, NumPy)  
+- JSON Processing  
+
+**Impact**
+- Automated data cleaning and transformation  
+- Significantly reduced manual reporting effort  
+
+---
+
+## ◼️ Tech Stack Overview
 
 | Domain | Tools |
-| :--- | :--- |
-| **Languages** | [cite_start]Python, SQL, JavaScript [cite: 140, 352] |
-| **AI Frameworks** | [cite_start]PyTorch, TensorFlow, Scikit-learn, LangChain [cite: 141, 353] |
-| **Vision & NLP** | [cite_start]OpenCV, spaCy, HuggingFace [cite: 142, 354] |
+|------|------|
+| **Languages** | Python, SQL, JavaScript |
+| **AI / ML** | PyTorch, TensorFlow, Scikit-learn, LangChain |
+| **Computer Vision & NLP** | OpenCV, Hugging Face, spaCy |
 | **Automation** | n8n, Gemini API, Pinecone |
-| **Data & BI** | [cite_start]Power BI, SQL, Streamlit [cite: 39, 140, 143] |
+| **Data & BI** | Power BI, SQL, Streamlit |
 
 ---
 
-### ◼️ GitHub Analytics
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAhsaanUllah&theme=219lust)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MAhsaanUllah&theme=219lust)
+## ◼️ GitHub Analytics
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAhsaanUllah&theme=219lust)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MAhsaanUllah&theme=219lust)
 
 ---
 
-### ◼️ Connect & Collaborate
-[LinkedIn](https://www.linkedin.com/in/mahsaanullah/) | [Portfolio](https://mahsaan-ullah-zw6kg82.gamma.site/) | [Twitter](https://twitter.com/real_ahsaan)
+## ◼️ Connect & Collaborate
+🔗 [LinkedIn](https://www.linkedin.com/in/mahsaanullah/)  
+🌐 [Portfolio](https://mahsaan-ullah-zw6kg82.gamma.site/)  
+🐦 [Twitter / X](https://twitter.com/real_ahsaan)
 
-> "Build systems that work, explain them simply, and improve them continuously."
+> *“Build systems that work, explain them simply, and improve them continuously.”*
