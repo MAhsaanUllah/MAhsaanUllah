@@ -1,121 +1,61 @@
-<!-- Profile README for Muhammad Ahsaan Ullah -->
-
-# 👋 Hi, I’m Muhammad Ahsaan Ullah  
-**Junior Machine Learning / AI Engineer | Data & NLP Projects | Deployment-Focused**
+# Muhammad Ahsaan Ullah
+**AI & ML Engineer | Lead @ DeepFakeShield 🛡️** *Specializing in AI Automation, Computer Vision, and Intelligent Systems.*
 
 ---
 
-## 👀 Quick Snapshot
-- 🎓 Final-year **Computer Science** student  
-- 🤖 Building **ML, NLP, and LLM-based applications** with real-world use cases  
-- 📊 Comfortable with **end-to-end pipelines**: data → model → evaluation → demo  
-- 🚀 Actively seeking **Junior AI / ML / Data roles & paid internships**
+### ◼️ Profile Summary
+- [cite_start]💻 **Core Focus**: Engineering AI systems that solve real-world security and automation gaps[cite: 66, 74].
+- [cite_start]🎓 **Education**: Final-year BS Computer Science (7th Sem) @ UMT[cite: 62, 172].
+- ⚙️ **Philosophy**: Move beyond notebooks. Build scalable APIs, RAG agents, and automated ETLs.
+- 📍 **Status**: Actively seeking Junior AI/ML or Data roles (Lahore / Remote).
 
 ---
 
-## 🔗 Connect With Me
-[![GitHub followers](https://img.shields.io/github/followers/MAhsaanUllah?style=social)](https://github.com/MAhsaanUllah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahsaan%20Ullah-blue?logo=linkedin)](https://www.linkedin.com/in/mahsaanullah/)
-[![Twitter](https://img.shields.io/badge/Twitter-@real_ahsaan-1DA1F2?logo=twitter)](https://twitter.com/real_ahsaan)
+### ◼️ Top Technical Pillars
+- [cite_start]**Forensic AI**: Lead Developer of DeepFakeShield, detecting synthetic media artifacts[cite: 66, 155].
+- **AI Automation**: Building RAG-based agents with Gemini 2.5 Flash and n8n orchestration.
+- [cite_start]**Data Analytics**: Transforming raw data into business intelligence via SQL and Power BI[cite: 39, 140].
 
 ---
 
-## 🧠 About Me
-I focus on **practical AI systems**, not just notebooks.
+### ◼️ Featured Repositories
 
-- 🧪 Machine Learning: regression, classification, anomaly detection  
-- 🗣️ NLP & LLMs: sentiment analysis, chatbots, **RAG pipelines**  
-- 🖥️ Deployment: Streamlit apps, APIs, environment configs  
-- 📈 Analytics: SQL, Power BI, dashboards for decision-making  
+#### [DeepFakeShield-FYP](https://github.com/MAhsaanUllah) (🛡️ Lead Developer)
+**AI forensic system for identifying manipulated images and videos.**
+- [cite_start]**Tech**: Python, PyTorch, XceptionNet, EfficientNet-B0, FastAPI[cite: 140, 141, 142].
+- [cite_start]**Impact**: Targeted accuracy of 85-92% using frame-level analysis and transfer learning[cite: 152, 153].
 
-I care about **clarity, reproducibility, and explaining my work well in interviews**.
+#### [Enterprise-RAG-Support-Automation](https://github.com/MAhsaanUllah/Enterprise-RAG-Support-Automation)
+**Industrial-grade RAG agent for machinery troubleshooting.**
+- **Tech**: Gemini 2.5 Flash, Pinecone Vector DB, n8n.
+- **Impact**: Automates complex troubleshooting via Retrieval-Augmented Generation.
 
----
-
-## ⭐ Featured Projects (Pinned)
-
-### 🔹 PDF RAG Chatbot (Gemini + LangChain)
-**LLM-powered system to query PDFs using Retrieval-Augmented Generation**
-- Tech: Python, LangChain, FAISS, Google Gemini, Streamlit  
-- Skills shown: RAG, vector search, LLM APIs, deployment  
-👉 *Best project for AI / LLM roles*
-
-🔗 https://github.com/MAhsaanUllah/PDF-RAG-Chatbot-Gemini
+#### [n8n-python-data-etl](https://github.com/MAhsaanUllah/n8n-python-data-etl)
+**Hybrid low-code/script-based ETL pipeline.**
+- **Tech**: n8n, Python (Pandas/NumPy), JSON Processing.
+- **Impact**: Automates raw data sanitation and reduces manual reporting effort.
 
 ---
 
-### 🔹 Fraud Detection System (ML + Dashboard)
-**Detects anomalous & fraudulent applications using unsupervised ML**
-- Tech: Scikit-learn, Isolation Forest, K-Means, Streamlit  
-- Skills shown: feature engineering, anomaly detection, scoring pipelines  
+### ◼️ Tech Stack
 
-🔗 https://github.com/MAhsaanUllah/fraud-detection-ml
-
----
-
-### 🔹 Intern Performance Prediction (End-to-End ML)
-**Predicts final performance using academic & behavioral features**
-- Tech: Random Forest, GridSearchCV, EDA, PDF reporting  
-- Skills shown: regression modeling, evaluation, explainability  
-
-🔗 https://github.com/MAhsaanUllah/Intern_Performance_Prediction
+| Domain | Tools |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, SQL, JavaScript [cite: 140, 352] |
+| **AI Frameworks** | [cite_start]PyTorch, TensorFlow, Scikit-learn, LangChain [cite: 141, 353] |
+| **Vision & NLP** | [cite_start]OpenCV, spaCy, HuggingFace [cite: 142, 354] |
+| **Automation** | n8n, Gemini API, Pinecone |
+| **Data & BI** | [cite_start]Power BI, SQL, Streamlit [cite: 39, 140, 143] |
 
 ---
 
-### 🔹 NLP Showcase: Aspect-Based Sentiment Analysis
-**Extracts aspects and sentiment from customer reviews**
-- Tech: spaCy, KeyBERT, Streamlit  
-- Skills shown: NLP depth, aspect extraction, sentiment analysis  
-
-🔗 https://github.com/MAhsaanUllah/Aspect-Based-Sentiment-Analysis-ABSA
+### ◼️ GitHub Analytics
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAhsaanUllah&theme=219lust)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MAhsaanUllah&theme=219lust)
 
 ---
 
-## 🛠️ Tech Stack
+### ◼️ Connect & Collaborate
+[LinkedIn](https://www.linkedin.com/in/mahsaanullah/) | [Portfolio](https://mahsaan-ullah-zw6kg82.gamma.site/) | [Twitter](https://twitter.com/real_ahsaan)
 
-**Languages & Data**
-- Python, SQL  
-- Pandas, NumPy  
-
-**Machine Learning**
-- Scikit-learn  
-- PyTorch (learning & applied)  
-
-**NLP / LLMs**
-- LangChain, FAISS  
-- HuggingFace, spaCy, NLTK  
-- Google Gemini API  
-
-**Visualization & BI**
-- Matplotlib, Seaborn  
-- Power BI  
-
-**Deployment**
-- Streamlit  
-- GitHub, virtual environments  
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAhsaanUllah&theme=default)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MAhsaanUllah&theme=default)
-
-
-
-
----
-
-## 🎯 Current Focus
-- 📌 Strengthening **LLM + CV projects**  
-- 📌 Freelance-ready **analytics & dashboard work**  
-- 📌 Preparing for **Junior AI / ML Engineer interviews**
-
----
-
-## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/mahsaanullah/  
-- GitHub: https://github.com/MAhsaanUllah  
-
-> *“Build systems that work, explain them simply, and improve them continuously.”*
+> "Build systems that work, explain them simply, and improve them continuously."
