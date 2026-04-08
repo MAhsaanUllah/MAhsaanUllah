@@ -19,7 +19,7 @@ Final-year BS Computer Science student at UMT Lahore, specializing in end-to-end
 
 - 🛡️ **Lead Developer** — DeepFakeShield FYP (95.67% deepfake detection accuracy)
 - 🍽️ **Founder** — BistroFlow AI (live WhatsApp SaaS for Pakistani restaurants)
-- 🚀 **Hackathon Builder** — Google Gemini Live API · GitLab AI Hackathon 2026
+- 🚀 **Hackathon Builder** — Google Gemini Live API · GitLab AI Hackathon 2026 · AMD Developer Hackathon
 - 📍 **Open to** Junior AI / ML roles — Remote & Lahore
 
 ---
@@ -154,7 +154,7 @@ Real-time CV pipeline: webcam → MediaPipe hand landmarks → gesture classifie
 | **Frontend** | React 18 · TypeScript · Tailwind CSS · Streamlit |
 | **Computer Vision** | OpenCV · MediaPipe · WebRTC · WebSocket |
 | **Data & BI** | Pandas · NumPy · SQL · Power BI · Tableau |
-| **Cloud / DevOps** | Google Cloud Run · Vercel · Railway · Docker · GitHub Actions |
+| **Cloud / DevOps** | Google Cloud Run · AWS Lambda · API Gateway · Vercel · Railway · Docker · GitHub Actions |
 
 ---
 
@@ -173,6 +173,7 @@ Real-time CV pipeline: webcam → MediaPipe hand landmarks → gesture classifie
 
 | Repository | Description | Stack |
 |---|---|---|
+| [aws-sentiment-analyzer](https://github.com/MAhsaanUllah/aws-sentiment-analyzer) | Serverless sentiment API on AWS Lambda + API Gateway | Python · AWS Lambda · API Gateway |
 | [Enterprise-RAG-Support-Automation](https://github.com/MAhsaanUllah/Enterprise-RAG-Support-Automation) | Industrial RAG agent for machinery troubleshooting | Gemini · Pinecone · n8n |
 | [fraud-detection-ml](https://github.com/MAhsaanUllah/fraud-detection-ml) | Fraud detection · 94.2% precision | Scikit-learn · Streamlit |
 | [PDF-RAG-Chatbot-Gemini](https://github.com/MAhsaanUllah/PDF-RAG-Chatbot-Gemini) | PDF Q&A chatbot | LangChain · Gemini |
