@@ -15,12 +15,14 @@
 
 ## About Me
 
-Final-year BS Computer Science student at UMT Lahore, specializing in end-to-end AI engineering — from training deep learning models to deploying production systems. I build things that actually work and ship.
+BS Computer Science — University of Management and Technology (UMT)
 
-- 🛡️ **Lead Developer** — DeepFakeShield FYP (95.67% deepfake detection accuracy)
+AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying production systems. I build things that actually work and ship.
+
+- 🛡️ **Lead Developer** — DeepFakeShield (95.67% deepfake detection accuracy)
 - 🍽️ **Founder** — BistroFlow AI (live WhatsApp SaaS for Pakistani restaurants)
-- 🚀 **Hackathon Builder** — Google Gemini Live API · GitLab AI Hackathon 2026 · AMD Developer Hackathon
-- 📍 **Open to** Junior AI / ML roles — Remote & Lahore
+- 🚀 **Hackathon Builder** — Google Gemini Live API · GitLab AI Hackathon 2026
+- 📍 **Open to** Junior AI / ML roles — Remote & On-site
 
 ---
 
@@ -28,7 +30,7 @@ Final-year BS Computer Science student at UMT Lahore, specializing in end-to-end
 
 ---
 
-### 🛡️ DeepFakeShield — AI Forensic Detection System *(FYP · Lead Developer)*
+### 🛡️ DeepFakeShield — AI Forensic Detection System *(Lead Developer)*
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -44,7 +46,7 @@ Final-year BS Computer Science student at UMT Lahore, specializing in end-to-end
 | ⚙️ Backend | FastAPI · Uvicorn · Python 3.11 |
 | 🔄 Status | Phase 2 in progress — video detection |
 
-🔗 [View Repository](https://github.com/MAhsaanUllah/DeepFakeShield-FYP)
+🔗 [View Showcase](https://github.com/MAhsaanUllah/DeepFakeShield-Showcase)
 
 ---
 
