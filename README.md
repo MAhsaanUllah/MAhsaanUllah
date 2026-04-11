@@ -187,6 +187,6 @@ Real-time CV pipeline: webcam → MediaPipe hand landmarks → gesture classifie
 
 <div align="center">
 
-**📧 real.ahsaan@gmail.com · 📍 Lahore, Pakistan · 🟢 Open to opportunities**
+**📧 dev.ahsaan@gmail.com · 📍 Lahore, Pakistan · 🟢 Open to opportunities**
 
 </div>
