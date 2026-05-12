@@ -19,6 +19,7 @@ BS Computer Science — University of Management and Technology (UMT)
 
 AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying production systems. I build things that actually work and ship.
 
+- 🌌 **Lead Developer** — Project Aura (AMD Global Hackathon 2026)
 - 🛡️ **Lead Developer** — DeepFakeShield (95.67% deepfake detection accuracy)
 - 🍽️ **Founder** — BistroFlow AI (live WhatsApp SaaS for Pakistani restaurants)
 - 🚀 **Hackathon Builder** — Google Gemini Live API · GitLab AI Hackathon 2026
@@ -27,6 +28,26 @@ AI Engineer specializing in end-to-end AI systems — from training deep learnin
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 🌌 Project Aura — Forensic Intelligence Engine *(AMD Global Hackathon)*
+
+![AMD](https://img.shields.io/badge/AMD_MI300X-ED1C24?style=flat&logo=amd&logoColor=white)
+![ROCm](https://img.shields.io/badge/ROCm_6.0-00539B?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-orange?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+High-performance forensic reasoning pipeline for real-time reconstruction of digital artifacts, powered by AMD Instinct™ MI300X acceleration (192GB VRAM).
+
+| | |
+|---|---|
+| 🌐 Live | [Hugging Face Space](https://huggingface.co/spaces/realahsaan/Project-Aura-Forensic-Hub) |
+| 🧠 Model | Qwen-72B-Agentic-Reasoner |
+| 🛠️ Core | vLLM + ROCm™ 6.0 Integration |
+| 🛡️ Output | Court-ready PDF forensic audit reports |
+
+🔗 [View Repository](https://github.com/MAhsaanUllah/Project-Aura-Forensic-Hub)
 
 ---
 
@@ -175,6 +196,7 @@ Real-time CV pipeline: webcam → MediaPipe hand landmarks → gesture classifie
 
 | Repository | Description | Stack |
 |---|---|---|
+| [Project-Aura-Forensic-Hub](https://github.com/MAhsaanUllah/Project-Aura-Forensic-Hub) | Forensic Intelligence Engine for AMD Global Hackathon | Python · vLLM · ROCm |
 | [aws-sentiment-analyzer](https://github.com/MAhsaanUllah/aws-sentiment-analyzer) | Serverless sentiment API on AWS Lambda + API Gateway | Python · AWS Lambda · API Gateway |
 | [Enterprise-RAG-Support-Automation](https://github.com/MAhsaanUllah/Enterprise-RAG-Support-Automation) | Industrial RAG agent for machinery troubleshooting | Gemini · Pinecone · n8n |
 | [fraud-detection-ml](https://github.com/MAhsaanUllah/fraud-detection-ml) | Fraud detection · 94.2% precision | Scikit-learn · Streamlit |
