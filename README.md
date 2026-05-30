@@ -71,7 +71,7 @@ High-performance forensic reasoning pipeline for real-time reconstruction of dig
 
 ---
 
-### 🍽️ BistroFlow AI — WhatsApp Restaurant SaaS *(Live in Production)*
+### 🍽️ Tarkabot — WhatsApp Restaurant SaaS *(Live in Production)*
 
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -82,7 +82,7 @@ Multi-tenant restaurant OS — customers order in Roman Urdu/English via WhatsAp
 
 | | |
 |---|---|
-| 🌐 Live | [bistroflow.vercel.app](https://bistroflow.vercel.app) |
+| 🌐 Live | [bistroflow.vercel.app](https://tarkabot.online) |
 | 🤖 NLP | Custom Roman Urdu parser · RapidFuzz fuzzy matching |
 | 🗄️ Database | 11 tables · 33 SQL migrations · Row Level Security |
 | ☁️ Deploy | Vercel + Railway + Supabase |
