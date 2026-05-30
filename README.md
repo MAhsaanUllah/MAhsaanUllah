@@ -19,9 +19,9 @@ BS Computer Science — University of Management and Technology (UMT)
 
 AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying production systems. I build things that actually work and ship.
 
-- 🌌 **Lead Developer** — Project Aura (AMD Global Hackathon 2026)
-- 🛡️ **Lead Developer** — DeepFakeShield (95.67% deepfake detection accuracy)
-- 🍽️ **Founder** — BistroFlow AI (live WhatsApp SaaS for Pakistani restaurants)
+- 🌌 **Hackathon Project** — Project Aura (AMD Global Hackathon 2026)
+- 🛡️ **Developer** — DeepFakeShield (95.67% deepfake detection accuracy)
+- 🍽️ **Founder** — TARKABOT (live WhatsApp SaaS for Pakistani restaurants)
 - 🚀 **Hackathon Builder** — Google Gemini Live API · GitLab AI Hackathon 2026
 - 📍 **Open to** Junior AI / ML roles — Remote & On-site
 
