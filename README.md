@@ -82,7 +82,7 @@ Multi-tenant restaurant OS — customers order in Roman Urdu/English via WhatsAp
 
 | | |
 |---|---|
-| 🌐 Live | [bistroflow.vercel.app](https://tarkabot.online) |
+| 🌐 Live | [TarkaBot](https://tarkabot.online) |
 | 🤖 NLP | Custom Roman Urdu parser · RapidFuzz fuzzy matching |
 | 🗄️ Database | 11 tables · 33 SQL migrations · Row Level Security |
 | ☁️ Deploy | Vercel + Railway + Supabase |
