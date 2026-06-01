@@ -149,20 +149,22 @@ Multi-agent system that scans, analyzes, and auto-fixes security vulnerabilities
 
 ---
 
-### 🛡️ ExportShield Pro — ZATCA Compliance Engine *(Shipped Commercial Product)*
+### 🛡️ ExportShield Pro — ZATCA Compliance Engine (Cloud SaaS & Offline Node)
 
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![ZATCA](https://img.shields.io/badge/ZATCA_Phase_1-115E59?style=flat)
 
-Fully offline Windows desktop app — automates Saudi ZATCA Phase 1 e-invoicing with cryptographic TLV QR codes and bilingual Arabic/English PDFs. Shipped as commercial product.
+An enterprise-grade e-invoicing platform for Saudi Arabia & Pakistan exporters. Automatically maps raw Excel data using AI-heuristics, validates tax rules in real-time, and generates fully compliant UBL 2.1 XML and bilingual Arabic/English PDFs with cryptographic Base64 TLV QR codes.
 
 | | |
 |---|---|
-| 📦 Version | Gold Master v1.0.4 · Windows .exe |
-| 🔐 License | Node-locked · bcrypt · SHA-256 |
-| 📄 Output | Bilingual A4 PDFs · ZATCA TLV QR codes |
-| 💻 Mode | 100% offline · No internet required |
+| ☁️ **Cloud SaaS** | Next.js 14 · FastAPI · Supabase Auth & Storage · Multi-tenant RLS |
+| 🤖 **AI Pipeline** | SmartMap AI heuristic column mapping + Gemini-Flash-1.5 auto-fixing |
+| 🖥️ **Offline Node** | Shipped Gold Master v1.0.4 Windows .exe with node-locked hardware licensing |
+| 🔐 **Security** | Client-side AES database encryption · Tenant isolation · JWT Rate Limiting |
 
 🔗 [View Showcase](https://github.com/MAhsaanUllah/ExportShield-SaaS-Showcase)
 
