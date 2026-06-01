@@ -90,23 +90,24 @@ High-performance forensic reasoning pipeline for real-time reconstruction of dig
 
 ---
 
-### 🍽️ Tarkabot — WhatsApp Restaurant SaaS *(Live in Production)*
+### 🍽️ TARKABOT — AI-Powered WhatsApp Restaurant Operating System (SaaS)
 
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/Meta_Cloud_API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Multi-tenant restaurant OS — customers order in Roman Urdu/English via WhatsApp. Real-time kitchen Kanban, POS terminal, sales analytics.
+A production-grade, multi-tenant B2B SaaS that automates restaurant operations. It intercepts WhatsApp orders via a custom Roman Urdu NLP algorithm and manages them through a real-time Kanban kitchen dashboard and POS terminal.
 
 | | |
 |---|---|
 | 🌐 Live | [TarkaBot](https://tarkabot.online) |
-| 🤖 NLP | Custom Roman Urdu parser · RapidFuzz fuzzy matching |
-| 🗄️ Database | 11 tables · 33 SQL migrations · Row Level Security |
-| ☁️ Deploy | Vercel + Railway + Supabase |
+| 🤖 NLP | Custom Roman Urdu parser with fuzzy matching |
+| 🗄️ Database | Multi-tenant PostgreSQL with strict Row Level Security |
+| ☁️ Deploy | Docker · DigitalOcean · Vercel · Supabase |
 
-🔗 [View Showcase](https://github.com/MAhsaanUllah/BistroFlow-AI-Showcase)
+🔗 [View Showcase](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)
 
 ---
 
