@@ -17,17 +17,37 @@
 
 BS Computer Science — University of Management and Technology (UMT)
 
-AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying production systems. I build things that actually work and ship.
+AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying production systems. Focused on building reliable and scalable solutions.
 
-- 🌌 **Hackathon Project** — Project Aura (AMD Global Hackathon 2026)
-- 🛡️ **Developer** — DeepFakeShield (95.67% deepfake detection accuracy)
-- 🍽️ **Founder** — TARKABOT (live WhatsApp SaaS for Pakistani restaurants)
-- 🚀 **Hackathon Builder** — Google Gemini Live API · GitLab AI Hackathon 2026
+- 🌌 **Project Aura** — Built for the AMD Global Hackathon 2026.
+- 🔍 **AuraScout AI** — Built an advanced OSINT and web scraping tool.
+- 🛡️ **DeepFakeShield** — Developed an AI deepfake detection model (95.67% accuracy).
+- 🍽️ **TARKABOT** — Built a WhatsApp order management SaaS for local restaurants.
+- 🚀 **GitLab AI Hackathon 2026** — Developed an application using Google Gemini Live API.
 - 📍 **Open to** Junior AI / ML roles — Remote & On-site
 
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 🔍 AuraScout AI — Next-Gen OSINT Intelligence Engine
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-8A2BE2?style=flat)
+
+An advanced OSINT (Open Source Intelligence) and web reconnaissance platform.
+
+| | |
+|---|---|
+| 🌐 Live Demo | [mahsaanullah.github.io/AuraScout-AI](https://mahsaanullah.github.io/AuraScout-AI/) |
+| 🛠️ Stack | React, Vite, Tailwind CSS |
+| 🛡️ Core | Real-time web intelligence and data gathering |
+
+🔗 [View Repository](https://github.com/MAhsaanUllah/AuraScout-AI)
 
 ---
 
@@ -51,7 +71,7 @@ High-performance forensic reasoning pipeline for real-time reconstruction of dig
 
 ---
 
-### 🛡️ DeepFakeShield — AI Forensic Detection System *(Lead Developer)*
+### 🛡️ DeepFakeShield — AI Forensic Detection System
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
