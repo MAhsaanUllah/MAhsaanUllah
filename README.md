@@ -1,7 +1,7 @@
 <div align="center">
 
 # Muhammad Ahsaan Ullah
-### AI Engineer | Agentic Systems & RAG | Building DeepFakeShield & TarkaBot (Live) | FastAPI • LangChain • PyTorch
+### AI Engineer | Building Production Agentic Systems & Full-Stack ML Apps | FastAPI • React • PyTorch • LangChain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahsaanullah/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:dev.ahsaan@gmail.com)
@@ -14,20 +14,63 @@
 
 ## About Me
 
-BS Computer Science — University of Management and Technology (UMT)
+I am an AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying scalable production applications. I focus on building things that actually work and ship, bridging the gap between raw AI research and real-world software.
 
-AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying production systems. Focused on building reliable and scalable solutions.
+Recently, I architected and deployed TarkaBot, a live multi-tenant B2B SaaS for restaurants featuring custom Roman Urdu NLP, and DeepFakeShield, a 3-class deepfake detection system with 99.9% video accuracy. I have also built advanced AI agents for global hackathons using Gemini, Claude, and AMD MI300X.
+
+With my coursework completed, I am fully available and actively open to full-time, remote, or on-site Junior AI / Agentic Engineer roles.
 
 - 🌌 **Project Aura** — Built for the AMD Global Hackathon 2026.
 - 🔍 **AuraScout AI** — Built an advanced OSINT and web scraping tool.
-- 🛡️ **DeepFakeShield** — Developed an AI deepfake detection model (95.67% accuracy).
+- 🛡️ **DeepFakeShield** — Developed an AI deepfake detection model (99.9% video accuracy).
 - 🍽️ **TARKABOT** — Built a WhatsApp order management SaaS for local restaurants.
 - 🚀 **GitLab AI Hackathon 2026** — Developed an application using Google Gemini Live API.
-- 📍 **Open to** Junior AI / ML roles — Remote & On-site
 
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 🍽️ TARKABOT — AI-Powered WhatsApp Restaurant Operating System (SaaS)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+A production-grade, multi-tenant B2B SaaS that automates restaurant operations. It intercepts WhatsApp orders via a custom Roman Urdu NLP algorithm and manages them through a real-time Kanban kitchen dashboard and POS terminal.
+
+| | |
+|---|---|
+| 🌐 Live | [TarkaBot](https://tarkabot.online) |
+| 🤖 NLP | Custom Roman Urdu parser with fuzzy matching |
+| 🗄️ Database | Multi-tenant PostgreSQL with strict Row Level Security |
+| ☁️ Deploy | Docker · DigitalOcean · Vercel · Supabase |
+
+🔗 [View Showcase](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)
+
+---
+
+### 🛡️ ExportShield Pro — ZATCA Compliance Engine (Cloud SaaS & Offline Node)
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ZATCA](https://img.shields.io/badge/ZATCA_Phase_1-115E59?style=flat)
+
+An enterprise-grade e-invoicing platform for Saudi Arabia & Pakistan exporters. Automatically maps raw Excel data using AI-heuristics, validates tax rules in real-time, and generates fully compliant UBL 2.1 XML and bilingual Arabic/English PDFs with cryptographic Base64 TLV QR codes.
+
+| | |
+|---|---|
+| ☁️ **Cloud SaaS** | Next.js 14 · FastAPI · Supabase Auth & Storage · Multi-tenant RLS |
+| 🤖 **AI Pipeline** | SmartMap AI heuristic column mapping + Gemini-Flash-1.5 auto-fixing |
+| 🖥️ **Offline Node** | Shipped Gold Master v1.0.4 Windows .exe with node-locked hardware licensing |
+| 🔐 **Security** | Client-side AES database encryption · Tenant isolation · JWT Rate Limiting |
+
+🔗 [View Showcase](https://github.com/MAhsaanUllah/ExportShield-SaaS-Showcase)
 
 ---
 
@@ -50,6 +93,26 @@ An advanced OSINT (Open Source Intelligence) and web reconnaissance platform.
 
 ---
 
+### 🛡️ DeepFakeShield — AI Forensic Detection System
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+A production-grade 3-state deepfake detection system (Real / Fake / AI-Generated). Features a high-accuracy video inference pipeline with temporal majority-voting and a secure FastAPI backend.
+
+| | |
+|---|---|
+| 🎯 Accuracy | **99.9%** Video Inference · **95.83%** Image (XceptionNet-41) |
+| 🧠 Models | XceptionNet · EfficientNet-B4 · MobileNetV3 (Ensemble Mode) |
+| ⚙️ Backend | FastAPI · Custom API Key Auth · Async Multipart Buffering |
+| 🛡️ Security | Robust timeout decorators & OOM crash protection |
+
+🔗 [View Showcase](https://github.com/MAhsaanUllah/DeepFakeShield-Showcase)
+
+---
+
 ### 🌌 Project Aura — Forensic Intelligence Engine *(AMD Global Hackathon)*
 
 ![AMD](https://img.shields.io/badge/AMD_MI300X-ED1C24?style=flat&logo=amd&logoColor=white)
@@ -67,47 +130,6 @@ High-performance forensic reasoning pipeline for real-time reconstruction of dig
 | 🛡️ Output | Court-ready PDF forensic audit reports |
 
 🔗 [View Repository](https://github.com/MAhsaanUllah/Project-Aura-Forensic-Hub)
-
----
-
-### 🛡️ DeepFakeShield — AI Forensic Detection System
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-
-3-class deepfake detection system — Real / Fake / AI-Generated — using XceptionNet transfer learning with FastAPI backend and React frontend.
-
-| | |
-|---|---|
-| 🎯 Accuracy | **95.67%** on image detection |
-| 🧠 Model | XceptionNet · Transfer Learning · CrossEntropyLoss |
-| ⚙️ Backend | FastAPI · Uvicorn · Python 3.11 |
-| 🔄 Status | Phase 2 in progress — video detection |
-
-🔗 [View Showcase](https://github.com/MAhsaanUllah/DeepFakeShield-Showcase)
-
----
-
-### 🍽️ TARKABOT — AI-Powered WhatsApp Restaurant Operating System (SaaS)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-A production-grade, multi-tenant B2B SaaS that automates restaurant operations. It intercepts WhatsApp orders via a custom Roman Urdu NLP algorithm and manages them through a real-time Kanban kitchen dashboard and POS terminal.
-
-| | |
-|---|---|
-| 🌐 Live | [TarkaBot](https://tarkabot.online) |
-| 🤖 NLP | Custom Roman Urdu parser with fuzzy matching |
-| 🗄️ Database | Multi-tenant PostgreSQL with strict Row Level Security |
-| ☁️ Deploy | Docker · DigitalOcean · Vercel · Supabase |
-
-🔗 [View Showcase](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)
 
 ---
 
@@ -149,27 +171,6 @@ Multi-agent system that scans, analyzes, and auto-fixes security vulnerabilities
 
 ---
 
-### 🛡️ ExportShield Pro — ZATCA Compliance Engine (Cloud SaaS & Offline Node)
-
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ZATCA](https://img.shields.io/badge/ZATCA_Phase_1-115E59?style=flat)
-
-An enterprise-grade e-invoicing platform for Saudi Arabia & Pakistan exporters. Automatically maps raw Excel data using AI-heuristics, validates tax rules in real-time, and generates fully compliant UBL 2.1 XML and bilingual Arabic/English PDFs with cryptographic Base64 TLV QR codes.
-
-| | |
-|---|---|
-| ☁️ **Cloud SaaS** | Next.js 14 · FastAPI · Supabase Auth & Storage · Multi-tenant RLS |
-| 🤖 **AI Pipeline** | SmartMap AI heuristic column mapping + Gemini-Flash-1.5 auto-fixing |
-| 🖥️ **Offline Node** | Shipped Gold Master v1.0.4 Windows .exe with node-locked hardware licensing |
-| 🔐 **Security** | Client-side AES database encryption · Tenant isolation · JWT Rate Limiting |
-
-🔗 [View Showcase](https://github.com/MAhsaanUllah/ExportShield-SaaS-Showcase)
-
----
-
 ### 🖱️ GestureMouseCV — Hand Gesture Virtual Mouse
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -207,8 +208,7 @@ Real-time CV pipeline: webcam → MediaPipe hand landmarks → gesture classifie
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAhsaanUllah&theme=github_dark)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MAhsaanUllah&theme=github_dark)
+![Stats](https://github.com/MAhsaanUllah/github-readme-stats/raw/master/stats?username=MAhsaanUllah&theme=github_dark)
 
 </div>
 
@@ -218,7 +218,6 @@ Real-time CV pipeline: webcam → MediaPipe hand landmarks → gesture classifie
 
 | Repository | Description | Stack |
 |---|---|---|
-| [Project-Aura-Forensic-Hub](https://github.com/MAhsaanUllah/Project-Aura-Forensic-Hub) | Forensic Intelligence Engine for AMD Global Hackathon | Python · vLLM · ROCm |
 | [aws-sentiment-analyzer](https://github.com/MAhsaanUllah/aws-sentiment-analyzer) | Serverless sentiment API on AWS Lambda + API Gateway | Python · AWS Lambda · API Gateway |
 | [Enterprise-RAG-Support-Automation](https://github.com/MAhsaanUllah/Enterprise-RAG-Support-Automation) | Industrial RAG agent for machinery troubleshooting | Gemini · Pinecone · n8n |
 | [fraud-detection-ml](https://github.com/MAhsaanUllah/fraud-detection-ml) | Fraud detection · 94.2% precision | Scikit-learn · Streamlit |
