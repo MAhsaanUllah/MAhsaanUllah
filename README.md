@@ -65,6 +65,7 @@ An enterprise-grade e-invoicing platform for Saudi Arabia & Pakistan exporters. 
 
 | | |
 |---|---|
+| 🌐 Live | [ExportShiedlPro](https://www.exportshieldpro.online) |
 | ☁️ **Cloud SaaS** | Next.js 14 · FastAPI · Supabase Auth & Storage · Multi-tenant RLS |
 | 🤖 **AI Pipeline** | SmartMap AI heuristic column mapping + Gemini-Flash-1.5 auto-fixing |
 | 🖥️ **Offline Node** | Shipped Gold Master v1.0.4 Windows .exe with node-locked hardware licensing |
