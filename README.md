@@ -1,7 +1,8 @@
 <div align="center">
 
-# Muhammad Ahsaan Ullah
-### AI Engineer | Building Production Agentic Systems & Full-Stack ML Apps | FastAPI • React • PyTorch • LangChain
+<img src="./github cover image.jpg" alt="Muhammad Ahsaan Ullah - AI Control Center Banner" width="100%">
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahsaanullah/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:dev.ahsaan@gmail.com)
