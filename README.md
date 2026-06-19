@@ -1,8 +1,5 @@
 <img width="2000" height="600" alt="github cover image" src="https://github.com/user-attachments/assets/ea2d5d7f-0de3-47e7-8073-49b464410677" />
 <div align="center">
-  
-![Uploading github cover image.png…]()
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahsaanullah/)
