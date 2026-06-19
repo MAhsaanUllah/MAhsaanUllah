@@ -1,6 +1,7 @@
+<img width="2000" height="600" alt="github cover image" src="https://github.com/user-attachments/assets/ea2d5d7f-0de3-47e7-8073-49b464410677" />
 <div align="center">
-
-<img src="./github cover image.jpg" alt="Muhammad Ahsaan Ullah - AI Control Center Banner" width="100%">
+  
+![Uploading github cover image.png…]()
 
 <br/>
 
