@@ -19,7 +19,7 @@
 
 I am an AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying scalable production applications. I focus on building things that actually work and ship, bridging the gap between raw AI research and real-world software.
 
-Recently, I architected and deployed TarkaBot, a live multi-tenant B2B SaaS for restaurants featuring custom Roman Urdu NLP, and DeepFakeShield, a 3-class deepfake detection system with 99.9% video accuracy. I have also built advanced AI agents for global hackathons using Gemini, Claude, and AMD MI300X.
+Recently, I architected and deployed TarkaBot, a live multi-tenant B2B SaaS for restaurants featuring custom Roman Urdu NLP, and DeepFakeShield, a 3-class deepfake detection system with 95.9% video accuracy. I have also built advanced AI agents for global hackathons using Gemini, Claude, and AMD MI300X.
 
 With my coursework completed, I am fully available and actively open to full-time, remote, or on-site Junior AI / Agentic Engineer roles.
 
