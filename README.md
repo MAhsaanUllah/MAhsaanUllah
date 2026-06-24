@@ -56,6 +56,26 @@ A production-grade, multi-tenant B2B SaaS that automates restaurant operations. 
 
 ---
 
+### 🛡️ DeepFakeShield — AI Forensic Detection System
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+A production-grade 3-state deepfake detection system (Real / Fake / AI-Generated). Features a high-accuracy video inference pipeline with temporal majority-voting and a secure FastAPI backend.
+
+| | |
+|---|---|
+| 🎯 Accuracy | **95.9%** Video Inference · **95.83%** Image (XceptionNet-41) |
+| 🧠 Models | XceptionNet · EfficientNet-B4 · MobileNetV3 (Ensemble Mode) |
+| ⚙️ Backend | FastAPI · Custom API Key Auth · Async Multipart Buffering |
+| 🛡️ Security | Robust timeout decorators & OOM crash protection |
+
+🔗 [View Showcase](https://github.com/MAhsaanUllah/DeepFakeShield-Showcase)
+
+---
+
 ### 🛡️ ExportShield Pro — ZATCA Compliance Engine (Cloud SaaS & Offline Node)
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -94,26 +114,6 @@ An advanced OSINT (Open Source Intelligence) and web reconnaissance platform.
 | 🛡️ Core | Real-time web intelligence and data gathering |
 
 🔗 [View Repository](https://github.com/MAhsaanUllah/AuraScout-AI)
-
----
-
-### 🛡️ DeepFakeShield — AI Forensic Detection System
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-A production-grade 3-state deepfake detection system (Real / Fake / AI-Generated). Features a high-accuracy video inference pipeline with temporal majority-voting and a secure FastAPI backend.
-
-| | |
-|---|---|
-| 🎯 Accuracy | **99.9%** Video Inference · **95.83%** Image (XceptionNet-41) |
-| 🧠 Models | XceptionNet · EfficientNet-B4 · MobileNetV3 (Ensemble Mode) |
-| ⚙️ Backend | FastAPI · Custom API Key Auth · Async Multipart Buffering |
-| 🛡️ Security | Robust timeout decorators & OOM crash protection |
-
-🔗 [View Showcase](https://github.com/MAhsaanUllah/DeepFakeShield-Showcase)
 
 ---
 
