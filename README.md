@@ -17,17 +17,34 @@
 
 ## About Me
 
-I am an AI Engineer specializing in end-to-end AI systems — from training deep learning models to deploying scalable production applications. I focus on building things that actually work and ship, bridging the gap between raw AI research and real-world software.
+I build production-ready AI applications, automation systems, and scalable backend platforms.
 
-Recently, I architected and deployed TarkaBot, a live multi-tenant B2B SaaS for restaurants featuring custom Roman Urdu NLP, and DeepFakeShield, a 3-class deepfake detection system with 95.9% video accuracy. I have also built advanced AI agents for global hackathons using Gemini, Claude, and AMD MI300X.
+My recent work includes **DeepFakeShield**, an AI-powered deepfake detection platform built with PyTorch, FastAPI, and React, and **TarkaBot**, a multi-tenant WhatsApp SaaS designed to automate restaurant operations using custom Roman Urdu NLP and real-time workflows.
 
-With my coursework completed, I am fully available and actively open to full-time, remote, or on-site Junior AI / Agentic Engineer roles.
+I enjoy working across AI Engineering, Agentic AI, Computer Vision, RAG systems, and Backend Development. My goal is to build practical systems that solve real business problems and can be deployed in production environments.
 
-- 🌌 **Project Aura** — Built for the AMD Global Hackathon 2026.
-- 🔍 **AuraScout AI** — Built an advanced OSINT and web scraping tool.
-- 🛡️ **DeepFakeShield** — Developed an AI deepfake detection model (99.9% video accuracy).
-- 🍽️ **TARKABOT** — Built a WhatsApp order management SaaS for local restaurants.
-- 🚀 **GitLab AI Hackathon 2026** — Developed an application using Google Gemini Live API.
+I am currently open to **Junior AI Engineer**, **AI Automation Engineer**, **Agentic AI Engineer**, and **FastAPI Backend Engineer** opportunities.
+
+### Featured Work
+
+* 🌌 **Project Aura** - Forensic Intelligence Engine built for the AMD Global Hackathon 2026.
+* 🔍 **AuraScout AI** - AI-powered intelligence gathering and web research platform.
+* 🛡️ **DeepFakeShield** - Deepfake and AI-generated media detection platform.
+* 🍽️ **TarkaBot** - Multi-tenant WhatsApp Restaurant Operating System.
+* 🎓 **EduMentor Live** - Real-time AI tutor using Gemini Live APIs with voice and vision capabilities.
+* 🔒 **SentinelFix AI** - Multi-agent security automation system built for the GitLab AI Hackathon 2026.
+
+### Core Technologies
+
+**AI & ML:** PyTorch, TensorFlow, Scikit-learn, Computer Vision, RAG, LangChain
+
+**Backend:** Python, FastAPI, PostgreSQL, Redis, REST APIs
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+
+**Cloud & DevOps:** Docker, Supabase, Vercel, DigitalOcean, Google Cloud Run
+
+**AI APIs:** Gemini API, Claude API, OpenAI API
 
 ---
 
