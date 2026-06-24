@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:dev.ahsaan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel)](https://mahsaanullah.online)
 
-*Building production-ready AI systems that solve real problems · Lahore, Pakistan 🇵🇰*
+*Building production-ready AI systems that solve real problems ·*
 
 </div>
 
