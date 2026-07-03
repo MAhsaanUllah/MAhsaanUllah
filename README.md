@@ -14,7 +14,7 @@
 
 ## 🛠️ About Me
 
-I am an **AI Systems Engineer** focused on architecting, validating, and deploying production-grade AI applications and scalable asynchronous backend infrastructures. I specialize in bridging the gap between foundation models and enterprise business logic, ensuring system orchestration remains bulletproof under concurrent production loads.
+Muhammad Ahsaan Ullah is an **AI Systems Engineer** focused on building production-ready AI applications, agentic systems, and scalable backend platforms. His work spans AI automation, FastAPI, multi-tenant SaaS, computer vision, and retrieval-augmented generation (RAG). He enjoys solving real business problems by combining machine learning with robust software engineering.
 
 I approach software engineering with a strict product-focused mindset—designing secure multi-tenant data structures, containerizing dynamic pipelines, and minimizing cloud infrastructure latency with zero data cross-leaks.
 
