@@ -89,7 +89,7 @@ A commercial B2B e-invoicing routing engine satisfying strict cryptographic requ
 
 ### 🌌 Hackathon Engineering Highlights
 
-* 🔍 **[AuraScout AI](https://github.com/MAhsaanUllah/AuraScout-AI)** — Advanced Open Source Intelligence (OSINT) engine executing automated reconnaissance workflows via distributed web extractions and FastAPI multi-model routing loops.
+* 🔍 **[AuraScout AI](https://github.com/MAhsaanUllah/AuraScout-AI)** — Automated lead-scouting & web intelligence platform: Serper heuristic discovery, Gemini AI schema parsing, BYOK multi-LLM routing (Gemini/Groq/OpenRouter), FastAPI + SQLite.
 * 🌌 **[Project Aura](https://github.com/MAhsaanUllah/Project-Aura-Forensic-Hub)** — High-performance forensic reasoning engine tracking real-time reconstruction of digital artifacts, optimized via **vLLM + ROCm™ 6.0** for AMD Instinct™ MI300X infrastructure (192GB VRAM). Built for the AMD Global Hackathon 2026.
 * 🎓 **[EduMentor Live](https://github.com/MAhsaanUllah/Edumentor-Live)** — Real-time multimodal bilingual tutor leveraging Gemini 2.0 Flash WebSockets and WebRTC bidirectional streaming for low-latency voice and screen context validation. Deployed on Google Cloud Run.
 * 🔒 **[SentinelFix AI](https://github.com/MAhsaanUllah/SentinelFix-AI)** — Multi-agent security orchestration pipeline built for the GitLab AI Hackathon 2026, combining Claude 3.5 Haiku scanning loops with automated Claude 3.5 Sonnet codebase remediation agents.
