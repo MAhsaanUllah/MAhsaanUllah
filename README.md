@@ -94,6 +94,14 @@ A commercial B2B e-invoicing routing engine satisfying strict cryptographic requ
 * 🎓 **[EduMentor Live](https://github.com/MAhsaanUllah/Edumentor-Live)** — Real-time multimodal bilingual tutor leveraging Gemini 2.0 Flash WebSockets and WebRTC bidirectional streaming for low-latency voice and screen context validation. Deployed on Google Cloud Run.
 * 🔒 **[SentinelFix AI](https://github.com/MAhsaanUllah/SentinelFix-AI)** — Multi-agent security orchestration pipeline built for the GitLab AI Hackathon 2026, combining Claude 3.5 Haiku scanning loops with automated Claude 3.5 Sonnet codebase remediation agents.
 
+### 🤖 Machine Learning & Internship Projects
+
+* 💬 **[Customer Support Chatbot](https://github.com/MAhsaanUllah/customer-support-chatbot)** — NLP customer-support automation: GPT-2 empathetic reply generation with VADER/TextBlob sentiment detection and TF-IDF intent classification. Deployed live on Streamlit Cloud.
+* 🩺 **[MediVision AI — Disease Predictor](https://github.com/MAhsaanUllah/MediVision-AI-Disease-Predictor)** — End-to-end healthcare ML system (scikit-learn): data preprocessing → multi-model training → user-facing Streamlit application.
+* 🛡️ **[Fraud Detection ML](https://github.com/MAhsaanUllah/fraud-detection-ml)** — Final internship project: ensemble anomaly detection (Isolation Forest + K-Means) scoring 17.5K job applications in real time — 94.2% precision, 91.9% F1 — with an interactive Streamlit monitoring dashboard.
+
+---
+
 ---
 
 ## 🛠️ Specialized Technical Stack
