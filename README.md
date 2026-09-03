@@ -14,13 +14,13 @@
 
 ## 🛠️ About Me
 
-Muhammad Ahsaan Ullah is an **AI Systems Engineer** focused on building production-ready AI applications, agentic systems, and scalable backend platforms. His work spans AI automation, FastAPI, multi-tenant SaaS, computer vision, and retrieval-augmented generation (RAG). He enjoys solving real business problems by combining machine learning with robust software engineering.
+I am an **AI Systems Engineer** focused on building production-ready AI applications, agentic systems, and scalable backend platforms. My work spans AI automation, FastAPI, multi-tenant SaaS, computer vision, and retrieval-augmented generation (RAG). I solve real business problems by combining modern machine learning with robust software engineering.
 
 I approach software engineering with a strict product-focused mindset—designing secure multi-tenant data structures, containerizing dynamic pipelines, and minimizing cloud infrastructure latency with zero data cross-leaks.
 
 - 🤖 **Core Focus:** Multi-Agent Systems, High-Performance Backend Architecture, & RAG Systems.
 - 🐳 **Engineering DNA:** Strict Data Validation (Pydantic), Row Level Security (RLS), and Asynchronous Pipelines.
-- ⚡ **Availability:** Open to Full-Time **AI Systems Engineer**, **Agentic AI**, and **FastAPI Backend Engineering** opportunities.
+- ⚡ **Availability:** Open to Full-Time **AI Systems Engineer**, **Agentic AI**, and **FastAPI Backend Engineering** opportunities (Remote & Relocation).
 
 ---
 
@@ -144,8 +144,6 @@ A commercial B2B e-invoicing routing engine satisfying strict cryptographic requ
 
 ---
 
----
-
 ## 🛠️ Specialized Technical Stack
 
 - **AI & Agentic Systems:** PyTorch, LangChain, LangGraph, RAG Pipelines, Vector Indices (Qdrant, Pinecone, PGVector, ChromaDB), Computer Vision (OpenCV, MediaPipe).
@@ -157,6 +155,14 @@ A commercial B2B e-invoicing routing engine satisfying strict cryptographic requ
 
 <div align="center">
 
-**📧 dev.ahsaan@gmail.com · 📍 Lahore, Pakistan · 🟢 Available for Core Engineering Roles**
+### 🤝 Let's Connect & Build
+
+[![Email](https://img.shields.io/badge/Email-dev.ahsaan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ahsaan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Ahsaan_Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahsaanullah/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahsaanullah.online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mahsaanullah.online)
+
+<br/>
+
+**📍 Pakistan 🇵🇰 · 🟢 Open to Full-Time Remote & Relocation Opportunities**
 
 </div>
