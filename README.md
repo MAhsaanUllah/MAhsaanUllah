@@ -67,6 +67,48 @@ An enterprise-tier 3-state deepfake forensics platform classifying multi-format 
 
 ---
 
+### 🤖 Agent Friday — Autonomous OS-Level Desktop Assistant
+
+![LangGraph](https://img.shields.io/badge/LangGraph-0052CC?style=flat&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Windows](https://img.shields.io/badge/Win32_API-178600?style=flat&logo=windows&logoColor=white)
+
+An enterprise-grade, locally deployed autonomous desktop assistant capable of physically interacting with Windows OS — automating package management (`winget`), shell executions, web research, and file operations via an event-driven LangGraph state machine.
+
+| Component | Technical Implementation Standard |
+| :--- | :--- |
+| **🤖 Agent Core** | Stateful LangGraph orchestrator with persistent SQLite checkpoint memory (`.db`) |
+| **🛡️ Security (HITL)** | 3-Tier Human-in-the-Loop approval gate intercepting high-risk OS terminal calls |
+| **⚡ OS Execution** | Asynchronous non-blocking `subprocess.Popen` execution & regex hallucination guards |
+| **🎨 Stark-HUD UI** | Glassmorphic desktop interface built with React 19, TypeScript, & Tailwind CSS |
+
+🔗 **[View System Codebase Showcase](https://github.com/MAhsaanUllah/agent_friday)**
+
+---
+
+### 📄 Waraq AI — Intelligent Document Retrieval Engine (Production RAG)
+
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-EB4D5D?style=flat)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+A production-ready 5-stage RAG engine eliminating hallucinations through deterministic document grounding. Guarantees verifiable citations mapping every claim to a real PDF page and bounding-box coordinates.
+
+| Component | Technical Implementation Standard |
+| :--- | :--- |
+| **🌐 Live Sandbox** | [Waraq AI Application](https://waraqai.netlify.app/) |
+| **🔍 Hybrid Retrieval** | Dense (`bge-small-en-v1.5`) + Sparse (BM25) fused server-side via Reciprocal Rank Fusion (RRF) |
+| **🎯 Verifiable Citations** | Page-boundary-safe chunking with exact `page_number` & bounding-box metadata |
+| **🔐 Multi-Tenant & BYOK** | Stateless Bring-Your-Own-Key architecture with Clerk JWT tenant isolation |
+
+🔗 **[View System Codebase Showcase](https://github.com/MAhsaanUllah/WARAQ-AI)**
+
+---
+
 ### 🛡️ ExportShield Pro — Enterprise ZATCA Compliance Middleware Engine
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -106,9 +148,9 @@ A commercial B2B e-invoicing routing engine satisfying strict cryptographic requ
 
 ## 🛠️ Specialized Technical Stack
 
-- **AI & Agentic Systems:** PyTorch, LangChain, LangGraph, RAG Pipelines, Vector Indices (Pinecone, PGVector, ChromaDB), Computer Vision (OpenCV, MediaPipe).
+- **AI & Agentic Systems:** PyTorch, LangChain, LangGraph, RAG Pipelines, Vector Indices (Qdrant, Pinecone, PGVector, ChromaDB), Computer Vision (OpenCV, MediaPipe).
 - **Backend Architecture:** Python, FastAPI, Node.js, PostgreSQL (RLS Design), REST APIs, Connection Pooling, Redis Cache Layers.
-- **Frontend Core:** React 18, Next.js 14, TypeScript, Tailwind CSS, WebRTC, WebSocket Bidirectional Streaming.
+- **Frontend Core:** React 19 / 18, Next.js 14, TypeScript, Tailwind CSS, WebRTC, WebSocket Bidirectional Streaming.
 - **DevOps & Cloud Production:** Docker Containerization, GitHub Actions CI/CD, Google Cloud Run, DigitalOcean Drop Droplets, AWS Lambda, API Gateways.
 
 ---
