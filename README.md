@@ -8,11 +8,17 @@
 
 *Building Production-Grade AI Systems That Solve Business Problems ·*
 
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MAhsaanUllah&theme=tokyonight&hide_border=true)](https://github.com/MAhsaanUllah)
-
 </div>
+
+---
+
+### ⚡ Recent Deployments & Latest Builds
+
+| Project | Tech Core | Focus & Production Highlights | Live / Showcase |
+| :--- | :--- | :--- | :---: |
+| 🤖 **[Agent Friday](https://github.com/MAhsaanUllah/agent_friday)** | LangGraph · React 19 · Win32 | Autonomous OS desktop assistant with 3-tier HITL security gates | [Showcase](https://github.com/MAhsaanUllah/agent_friday) |
+| 📄 **[Waraq AI](https://github.com/MAhsaanUllah/WARAQ-AI)** | FastAPI · Qdrant · Clerk JWT | Production 5-stage RAG with bounding-box pinpoint citations & BYOK | [Live App](https://waraqai.netlify.app/) |
+| 🛡️ **[Fraud Detection ML](https://github.com/MAhsaanUllah/fraud-detection-ml)** | Scikit-learn · Streamlit | Real-time ensemble anomaly detection scoring 17.5K apps (94.2% Prec.) | [Repository](https://github.com/MAhsaanUllah/fraud-detection-ml) |
 
 ---
 
