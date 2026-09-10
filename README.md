@@ -15,7 +15,7 @@
 ### ⚡ Recent Deployments & Latest Builds
 
 <!-- RECENT_PROJECTS:START -->
-| Project | Tech Core | Focus & Production Highlights | Live / Showcase |
+| Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
 | 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Python | SCREENOS is an AI-assisted candidate screening workspace designed for non-technical recruiters. It automates... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
 | 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | TarkaBot is an AI-powered, multi-tenant Restaurant Operating System. It automates WhatsApp orders using custom NLP... | [Live App](https://tarkabot.online) |
@@ -95,7 +95,7 @@ A locally deployed Windows AI agent built with LangGraph, capable of web researc
 | :--- | :--- |
 | **🤖 Agent Core** | Stateful LangGraph orchestrator with persistent SQLite checkpoint memory (`.db`) |
 | **🛡️ Security (HITL)** | 3-Tier Human-in-the-Loop approval gate intercepting higher-risk OS terminal calls |
-| **⚡ OS Execution** | Asynchronous non-blocking `subprocess.Popen` execution & regex hallucination guards |
+| **⚡ OS Execution** | Asynchronous non-blocking `subprocess.Popen` execution & regex-based command validation guards |
 | **🎨 Stark-HUD UI** | Glassmorphic desktop interface built with React 19, TypeScript, & Tailwind CSS |
 
 🔗 **[View System Codebase Showcase](https://github.com/MAhsaanUllah/agent_friday)**
@@ -134,7 +134,7 @@ A B2B e-invoicing application designed around ZATCA-oriented compliance workflow
 
 | Layer | System Integration Architecture |
 | :--- | :--- |
-| **🌐 Production App** | [ExportShield Enterprise Node](https://www.exportshieldpro.online) |
+| **🌐 Live Application** | [ExportShield Enterprise Node](https://www.exportshieldpro.online) |
 | **🤖 AI Mapping** | SmartMap AI heuristic schema analyzer powered by structured prompt boundaries |
 | **🖥️ Node Isolation** | Gold Master v1.0.4 Windows runtime binary built with node-locked hardware matching |
 | **🔐 Security Matrix** | Client-side AES schema encryption, tenant database isolation, & rate-limiting loops |

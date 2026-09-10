@@ -146,7 +146,7 @@ def get_clean_name(raw_name):
 
 def generate_table(repos):
     rows = []
-    rows.append("| Project | Tech Core | Focus & Production Highlights | Live / Showcase |")
+    rows.append("| Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |")
     rows.append("| :--- | :--- | :--- | :---: |")
 
     for repo in repos:
