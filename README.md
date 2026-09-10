@@ -14,11 +14,13 @@
 
 ### ⚡ Recent Deployments & Latest Builds
 
+<!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Production Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
-| 🤖 **[Agent Friday](https://github.com/MAhsaanUllah/agent_friday)** | LangGraph · React 19 · Win32 | Autonomous OS desktop assistant with 3-tier HITL security gates | [Showcase](https://github.com/MAhsaanUllah/agent_friday) |
-| 📄 **[Waraq AI](https://github.com/MAhsaanUllah/WARAQ-AI)** | FastAPI · Qdrant · Clerk JWT | Production 5-stage RAG with bounding-box pinpoint citations & BYOK | [Live App](https://waraqai.netlify.app/) |
-| 🛡️ **[Fraud Detection ML](https://github.com/MAhsaanUllah/fraud-detection-ml)** | Scikit-learn · Streamlit | Real-time ensemble anomaly detection scoring 17.5K apps (94.2% Prec.) | [Repository](https://github.com/MAhsaanUllah/fraud-detection-ml) |
+| 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Python | SCREENOS is an AI-assisted candidate screening workspace designed for non-technical recruiters. It automates... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
+| 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | TarkaBot is an AI-powered, multi-tenant Restaurant Operating System. It automates WhatsApp orders using custom NLP... | [Live App](https://tarkabot.online) |
+| 🤖 **[Agent Friday](https://github.com/MAhsaanUllah/agent_friday)** | AI Agents · Desktop Automation · FastAPI | An Autonomous OS-Level Desktop Assistant powered by LangGraph and React. Features a Human-in-the-Loop (HITL)... | [Showcase](https://github.com/MAhsaanUllah/agent_friday) |
+<!-- RECENT_PROJECTS:END -->
 
 ---
 
