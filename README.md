@@ -32,8 +32,9 @@ My work centers on Python/FastAPI backends, agentic AI, RAG systems, and multi-t
 
 I build systems end-to-end — from API and database architecture to authentication, retrieval pipelines, AI integrations, testing, containerization, and deployment.
 
-- 🎯 **Current focus:** Agentic AI · RAG · Python/FastAPI Backend · Multi-Tenant SaaS
-- ⚡ **Open to:** AI Engineer · AI Software Engineer · Automation Engineer · Backend Engineering roles
+- 🤖 **Core Focus:** Agentic AI, RAG Systems, Python/FastAPI Backend Engineering
+- ⚙️ **Engineering:** PostgreSQL/RLS, REST APIs, asynchronous workflows, Docker, testing & deployment
+- 💼 **Open to:** AI Engineer, AI Software Engineer, Automation Engineer & Backend Engineering opportunities
 
 ---
 
