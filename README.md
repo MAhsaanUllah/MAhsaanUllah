@@ -38,7 +38,7 @@ I build systems end-to-end — from API and database architecture to authenticat
 
 ---
 
-## 🚀 Pinned Production Systems
+## 🚀 Featured Engineering Projects
 
 ### 🍽️ TARKABOT — AI-Powered WhatsApp Restaurant Operating System (SaaS)
 
@@ -48,7 +48,7 @@ I build systems end-to-end — from API and database architecture to authenticat
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-A production-grade, multi-tenant B2B SaaS that automates restaurant operations. It intercepts WhatsApp orders via a custom Roman Urdu NLP algorithm and manages them through a real-time Kanban kitchen dashboard and POS terminal.
+A private-beta, multi-tenant B2B SaaS that automates restaurant operations. It intercepts WhatsApp orders via a custom Roman Urdu NLP algorithm and manages them through a real-time Kanban kitchen dashboard and POS terminal.
 
 | Component | Technical Implementation Standard |
 | :--- | :--- |
@@ -61,21 +61,21 @@ A production-grade, multi-tenant B2B SaaS that automates restaurant operations. 
 
 ---
 
-### 🛡️ DeepFakeShield — AI Forensic Media Authenticity Detection System
+### 🛡️ DeepFakeShield — AI Forensic Media Detection System (FYP)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-An enterprise-tier 3-state deepfake forensics platform classifying multi-format media inputs into Real, Fake, or Generative AI categories. Features an asynchronous processing pipeline with temporal majority-voting.
+A Computer Science FYP for classifying media as Real, Deepfake, or AI-Generated using custom-trained PyTorch CNN models, with FastAPI inference and a React application layer.
 
 | Component | Technical Implementation Standard |
 | :--- | :--- |
-| **🎯 System Validation** | **95.9%** Video Inference Accuracy · **95.83%** Image Verification Split |
-| **🧠 Model Topology** | Ensemble Execution Mode (XceptionNet-41 + EfficientNet-B4 + MobileNetV3) |
-| **⚙️ Backend Pipeline** | Asynchronous Multipart Buffer Stream routing via FastAPI |
-| **🛡️ Memory Defense** | Out-Of-Memory (OOM) crash isolation protection decorators & execution timeouts |
+| **🎯 System Validation** | **95.83%** Validation Accuracy (XceptionNet-41 on balanced image holdout) · Frame-level temporal voting |
+| **🧠 Model Topology** | Ensemble execution mode (XceptionNet-41 + EfficientNet-B4 + MobileNetV3) |
+| **⚙️ Backend Pipeline** | Asynchronous multipart buffer stream routing via FastAPI |
+| **🛡️ Memory Defense** | Out-Of-Memory (OOM) crash protection decorators & execution timeouts |
 
 🔗 **[View Model Execution Showcase](https://github.com/MAhsaanUllah/DeepFakeShield-Showcase)**
 
@@ -89,12 +89,12 @@ An enterprise-tier 3-state deepfake forensics platform classifying multi-format 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Windows](https://img.shields.io/badge/Win32_API-178600?style=flat&logo=windows&logoColor=white)
 
-An enterprise-grade, locally deployed autonomous desktop assistant capable of physically interacting with Windows OS — automating package management (`winget`), shell executions, web research, and file operations via an event-driven LangGraph state machine.
+A locally deployed Windows AI agent built with LangGraph, capable of web research, file operations, terminal execution, and software management with Human-in-the-Loop approval controls for higher-risk actions.
 
 | Component | Technical Implementation Standard |
 | :--- | :--- |
 | **🤖 Agent Core** | Stateful LangGraph orchestrator with persistent SQLite checkpoint memory (`.db`) |
-| **🛡️ Security (HITL)** | 3-Tier Human-in-the-Loop approval gate intercepting high-risk OS terminal calls |
+| **🛡️ Security (HITL)** | 3-Tier Human-in-the-Loop approval gate intercepting higher-risk OS terminal calls |
 | **⚡ OS Execution** | Asynchronous non-blocking `subprocess.Popen` execution & regex hallucination guards |
 | **🎨 Stark-HUD UI** | Glassmorphic desktop interface built with React 19, TypeScript, & Tailwind CSS |
 
@@ -102,7 +102,7 @@ An enterprise-grade, locally deployed autonomous desktop assistant capable of ph
 
 ---
 
-### 📄 Waraq AI — Intelligent Document Retrieval Engine (Production RAG)
+### 📄 Waraq AI — Verifiable Document Intelligence & RAG
 
 ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -110,27 +110,27 @@ An enterprise-grade, locally deployed autonomous desktop assistant capable of ph
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
-A production-ready 5-stage RAG engine eliminating hallucinations through deterministic document grounding. Guarantees verifiable citations mapping every claim to a real PDF page and bounding-box coordinates.
+A multi-tenant RAG application designed for source-grounded document Q&A using hybrid retrieval, reranking, and verifiable citations mapping claims to real PDF page numbers and bounding-box coordinates.
 
 | Component | Technical Implementation Standard |
 | :--- | :--- |
 | **🌐 Live Sandbox** | [Waraq AI Application](https://waraqai.netlify.app/) |
 | **🔍 Hybrid Retrieval** | Dense (`bge-small-en-v1.5`) + Sparse (BM25) fused server-side via Reciprocal Rank Fusion (RRF) |
-| **🎯 Verifiable Citations** | Page-boundary-safe chunking with exact `page_number` & bounding-box metadata |
+| **🎯 Verifiable Citations** | Page-boundary-safe chunking with exact `page_number` & bounding-box citation metadata |
 | **🔐 Multi-Tenant & BYOK** | Stateless Bring-Your-Own-Key architecture with Clerk JWT tenant isolation |
 
 🔗 **[View System Codebase Showcase](https://github.com/MAhsaanUllah/WARAQ-AI)**
 
 ---
 
-### 🛡️ ExportShield Pro — Enterprise ZATCA Compliance Middleware Engine
+### 🛡️ ExportShield Pro — ZATCA-Oriented E-Invoicing Engine
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-A commercial B2B e-invoicing routing engine satisfying strict cryptographic requirements for local exporters dealing with the Saudi Arabian target market.
+A B2B e-invoicing application designed around ZATCA-oriented compliance workflows for businesses working with Saudi Arabian invoicing requirements.
 
 | Layer | System Integration Architecture |
 | :--- | :--- |
@@ -145,25 +145,25 @@ A commercial B2B e-invoicing routing engine satisfying strict cryptographic requ
 
 ### 🌌 Hackathon Engineering Highlights
 
-* 🔍 **[AuraScout AI](https://github.com/MAhsaanUllah/AuraScout-AI)** — Automated lead-scouting & web intelligence platform: Serper heuristic discovery, Gemini AI schema parsing, BYOK multi-LLM routing (Gemini/Groq/OpenRouter), FastAPI + SQLite.
-* 🌌 **[Project Aura](https://github.com/MAhsaanUllah/Project-Aura-Forensic-Hub)** — High-performance forensic reasoning engine tracking real-time reconstruction of digital artifacts, optimized via **vLLM + ROCm™ 6.0** for AMD Instinct™ MI300X infrastructure (192GB VRAM). Built for the AMD Global Hackathon 2026.
-* 🎓 **[EduMentor Live](https://github.com/MAhsaanUllah/Edumentor-Live)** — Real-time multimodal bilingual tutor leveraging Gemini 2.0 Flash WebSockets and WebRTC bidirectional streaming for low-latency voice and screen context validation. Deployed on Google Cloud Run.
-* 🔒 **[SentinelFix AI](https://github.com/MAhsaanUllah/SentinelFix-AI)** — Multi-agent security orchestration pipeline built for the GitLab AI Hackathon 2026, combining Claude 3.5 Haiku scanning loops with automated Claude 3.5 Sonnet codebase remediation agents.
+* 🔍 **[AuraScout AI](https://github.com/MAhsaanUllah/AuraScout-AI)** — Automated lead-scouting & web intelligence tool: Serper heuristic discovery, Gemini AI schema parsing, BYOK multi-LLM routing (Gemini/Groq/OpenRouter), FastAPI + SQLite.
+* 🌌 **[Project Aura](https://github.com/MAhsaanUllah/Project-Aura-Forensic-Hub)** — Forensic reasoning prototype tracking real-time reconstruction of digital artifacts, accelerated via **vLLM + ROCm™ 6.0** for AMD Instinct™ MI300X infrastructure (192GB VRAM). Built for the AMD Global Hackathon 2026.
+* 🎓 **[EduMentor Live](https://github.com/MAhsaanUllah/Edumentor-Live)** — Real-time multimodal bilingual tutor leveraging Gemini 2.0 Flash WebSockets and WebRTC bidirectional streaming for low-latency voice and screen context validation. Deployed on Google Cloud Run for the Google Gemini Live API Hackathon.
+* 🔒 **[SentinelFix AI](https://github.com/MAhsaanUllah/SentinelFix-AI)** — Multi-agent security remediation prototype built for the GitLab AI Hackathon 2026, combining Claude 3.5 Haiku scanning loops with automated Claude 3.5 Sonnet codebase remediation agents.
 
 ### 🤖 Machine Learning & Internship Projects
 
 * 💬 **[Customer Support Chatbot](https://github.com/MAhsaanUllah/customer-support-chatbot)** — NLP customer-support automation: GPT-2 empathetic reply generation with VADER/TextBlob sentiment detection and TF-IDF intent classification. Deployed live on Streamlit Cloud.
 * 🩺 **[MediVision AI — Disease Predictor](https://github.com/MAhsaanUllah/MediVision-AI-Disease-Predictor)** — End-to-end healthcare ML system (scikit-learn): data preprocessing → multi-model training → user-facing Streamlit application.
-* 🛡️ **[Fraud Detection ML](https://github.com/MAhsaanUllah/fraud-detection-ml)** — Final internship project: ensemble anomaly detection (Isolation Forest + K-Means) scoring 17.5K job applications in real time — 94.2% precision, 91.9% F1 — with an interactive Streamlit monitoring dashboard.
+* 🛡️ **[Fraud Detection ML](https://github.com/MAhsaanUllah/fraud-detection-ml)** — Final internship project: ensemble anomaly detection (Isolation Forest + K-Means) evaluated on 17.5K job applications (94.2% precision, 91.9% F1 on validation split) with an interactive Streamlit monitoring dashboard.
 
 ---
 
 ## 🛠️ Specialized Technical Stack
 
-- **AI & Agentic Systems:** PyTorch, LangChain, LangGraph, RAG Pipelines, Vector Indices (Qdrant, Pinecone, PGVector, ChromaDB), Computer Vision (OpenCV, MediaPipe).
-- **Backend Architecture:** Python, FastAPI, Node.js, PostgreSQL (RLS Design), REST APIs, Connection Pooling, Redis Cache Layers.
+- **AI & Agentic Systems:** LangGraph, LangChain, PyTorch, RAG Pipelines, Vector Indices (Qdrant, Pinecone, PGVector, ChromaDB), Computer Vision (OpenCV, MediaPipe).
+- **Backend Engineering:** Python, FastAPI, Node.js, PostgreSQL (RLS Design), REST APIs, Asynchronous Workflows, Connection Pooling, Redis Cache Layers.
 - **Frontend Core:** React 19 / 18, Next.js 14, TypeScript, Tailwind CSS, WebRTC, WebSocket Bidirectional Streaming.
-- **DevOps & Cloud Production:** Docker Containerization, GitHub Actions CI/CD, Google Cloud Run, DigitalOcean Drop Droplets, AWS Lambda, API Gateways.
+- **DevOps & Cloud:** Docker Containerization, GitHub Actions CI/CD, Google Cloud Run, DigitalOcean, Vercel, Netlify.
 
 ---
 
