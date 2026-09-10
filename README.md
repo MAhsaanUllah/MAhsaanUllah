@@ -26,13 +26,14 @@
 
 ## 🛠️ About Me
 
-I am an **AI Systems Engineer** focused on building production-ready AI applications, agentic systems, and scalable backend platforms. My work spans AI automation, FastAPI, multi-tenant SaaS, computer vision, and retrieval-augmented generation (RAG). I solve real business problems by combining modern machine learning with robust software engineering.
+I'm a Computer Science graduate and AI Systems Engineer focused on building AI applications backed by practical software engineering.
 
-I approach software engineering with a strict product-focused mindset—designing secure multi-tenant data structures, containerizing dynamic pipelines, and minimizing cloud infrastructure latency with zero data cross-leaks.
+My work centers on Python/FastAPI backends, agentic AI, RAG systems, and multi-tenant SaaS, with additional experience in computer vision and machine learning.
 
-- 🤖 **Core Focus:** Multi-Agent Systems, High-Performance Backend Architecture, & RAG Systems.
-- 🐳 **Engineering DNA:** Strict Data Validation (Pydantic), Row Level Security (RLS), and Asynchronous Pipelines.
-- ⚡ **Availability:** Open to Full-Time **AI Systems Engineer**, **Agentic AI**, and **FastAPI Backend Engineering** opportunities (Remote & Relocation).
+I build systems end-to-end — from API and database architecture to authentication, retrieval pipelines, AI integrations, testing, containerization, and deployment.
+
+- 🎯 **Current focus:** Agentic AI · RAG · Python/FastAPI Backend · Multi-Tenant SaaS
+- ⚡ **Open to:** AI Engineer · AI Software Engineer · Automation Engineer · Backend Engineering roles
 
 ---
 
