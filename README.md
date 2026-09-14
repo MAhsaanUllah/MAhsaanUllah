@@ -17,9 +17,9 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
+| 🤖 **[Insightgenie](https://github.com/MAhsaanUllah/InsightGenie)** | Ai Agent · Data Analysis · Data Analyst | Privacy-first autonomous AI Data Analyst. Chat with CSV, JSON & SQLite via natural language with DuckDB, Groq LPU,... | [Live App](https://github.com/MAhsaanUllah/InsightGenie#readme) |
 | 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Python | SCREENOS is an AI-assisted candidate screening workspace designed for non-technical recruiters. It automates... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
 | 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | TarkaBot is an AI-powered, multi-tenant Restaurant Operating System. It automates WhatsApp orders using custom NLP... | [Live App](https://tarkabot.online) |
-| 🤖 **[Agent Friday](https://github.com/MAhsaanUllah/agent_friday)** | AI Agents · Desktop Automation · FastAPI | An Autonomous OS-Level Desktop Assistant powered by LangGraph and React. Features a Human-in-the-Loop (HITL)... | [Showcase](https://github.com/MAhsaanUllah/agent_friday) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
