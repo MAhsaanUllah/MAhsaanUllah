@@ -18,8 +18,8 @@
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
 | 🤖 **[Insightgenie](https://github.com/MAhsaanUllah/InsightGenie)** | Ai Agent · Data Analysis · Data Analyst | Privacy-first autonomous AI Data Analyst. Chat with CSV, JSON & SQLite via natural language with DuckDB, Groq LPU,... | [Live App](https://github.com/MAhsaanUllah/InsightGenie#readme) |
-| 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Python | SCREENOS is an AI-assisted candidate screening workspace designed for non-technical recruiters. It automates... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
-| 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | TarkaBot is an AI-powered, multi-tenant Restaurant Operating System. It automates WhatsApp orders using custom NLP... | [Live App](https://tarkabot.online) |
+| 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Ai · FastAPI · Guardrails | AI-assisted candidate screening workspace: PDF/DOCX extraction, PII removal, prompt-injection guardrails,... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
+| 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | Product code is private. This repository documents the architecture, key decisions and workflow exports. | [Live App](https://tarkabot.online) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
