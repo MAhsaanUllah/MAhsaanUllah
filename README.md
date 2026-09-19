@@ -17,9 +17,9 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
+| ⚡ **[Dispatchai](https://github.com/MAhsaanUllah/DispatchAI)** | TypeScript | > Production-Grade Agentic Field-Service Dispatch Platform for HVAC & Plumbing Operations in Austin, Texas. | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
 | 🤖 **[Insightgenie](https://github.com/MAhsaanUllah/InsightGenie)** | Ai Agent · Data Analysis · Data Analyst | Privacy-first autonomous AI Data Analyst. Chat with CSV, JSON & SQLite via natural language with DuckDB, Groq LPU,... | [Live App](https://github.com/MAhsaanUllah/InsightGenie#readme) |
 | 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Ai · FastAPI · Guardrails | AI-assisted candidate screening workspace: PDF/DOCX extraction, PII removal, prompt-injection guardrails,... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
-| 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | Product code is private. This repository documents the architecture, key decisions and workflow exports. | [Live App](https://tarkabot.online) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
