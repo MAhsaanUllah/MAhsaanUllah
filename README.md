@@ -17,7 +17,7 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
-| ⚡ **[Estate Social](https://github.com/MAhsaanUllah/estate-social)** | JavaScript | > A social-first property marketplace built for Pakistani real estate dynamics. | [Showcase](https://github.com/MAhsaanUllah/estate-social) |
+| ⚡ **[Estate Social](https://github.com/MAhsaanUllah/estate-social)** | JavaScript | > A social-first MERN property marketplace built around Pakistani real-estate workflows. | [Showcase](https://github.com/MAhsaanUllah/estate-social) |
 | ⚡ **[Dispatchai](https://github.com/MAhsaanUllah/DispatchAI)** | TypeScript | > Production-Grade Agentic Field-Service Dispatch Platform for HVAC & Plumbing Operations in Austin, Texas. | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
 | 🤖 **[Insightgenie](https://github.com/MAhsaanUllah/InsightGenie)** | Ai Agent · Data Analysis · Data Analyst | Privacy-first autonomous AI Data Analyst. Chat with CSV, JSON & SQLite via natural language with DuckDB, Groq LPU,... | [Live App](https://github.com/MAhsaanUllah/InsightGenie#readme) |
 <!-- RECENT_PROJECTS:END -->
