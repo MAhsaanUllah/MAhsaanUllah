@@ -17,9 +17,9 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
+| ⚡ **[Dispatchai](https://github.com/MAhsaanUllah/DispatchAI)** | TypeScript | > Local MVP in progress for HVAC & Plumbing dispatch operations in Austin, Texas. | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
 | 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Ai · Byok · FastAPI | Open-source, self-hostable AI resume screening workspace with job-specific rubrics, evidence-backed scoring,... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
 | ⚡ **[Estate Social](https://github.com/MAhsaanUllah/estate-social)** | JavaScript | > A social-first MERN property marketplace built around Pakistani real-estate workflows. | [Showcase](https://github.com/MAhsaanUllah/estate-social) |
-| ⚡ **[Dispatchai](https://github.com/MAhsaanUllah/DispatchAI)** | TypeScript | > Production-Grade Agentic Field-Service Dispatch Platform for HVAC & Plumbing Operations in Austin, Texas. | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
