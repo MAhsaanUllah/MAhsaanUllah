@@ -17,9 +17,9 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
-| ⚡ **[Dispatchai](https://github.com/MAhsaanUllah/DispatchAI)** | TypeScript | Voice-assisted dispatch for HVAC and plumbing operations. DispatchAI brings customer intake, technician... | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
+| 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | Product code is private. This repository documents the architecture, key decisions and workflow exports. | [Live App](https://tarkabot.online) |
+| 🤖 **[Dispatchai](https://github.com/MAhsaanUllah/DispatchAI)** | Agents Sdk · Elevenlabs · Field Service | Voice-first field service dispatch demo — ElevenLabs voice agent, Cloudflare Workers (Agents SDK), n8n... | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
 | 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Ai · Byok · FastAPI | Open-source, self-hostable AI resume screening workspace with job-specific rubrics, evidence-backed scoring,... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
-| ⚡ **[Estate Social](https://github.com/MAhsaanUllah/estate-social)** | JavaScript | > A social-first MERN property marketplace built around Pakistani real-estate workflows. | [Showcase](https://github.com/MAhsaanUllah/estate-social) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
