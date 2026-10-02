@@ -17,9 +17,9 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
+| ⚡ **[Peepdesk](https://github.com/MAhsaanUllah/PeepDesk)** | Desktop App · Desktop Pet · Electron | Ultra-lightweight Windows desktop companion: a floating animated pet, hydration & chai-break reminders, and an... | [Showcase](https://github.com/MAhsaanUllah/PeepDesk) |
 | 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | Product code is private. This repository documents the architecture, key decisions and workflow exports. | [Live App](https://tarkabot.online) |
 | 🤖 **[Dispatchai](https://github.com/MAhsaanUllah/DispatchAI)** | Agents Sdk · Elevenlabs · Field Service | Voice-first field service dispatch demo — ElevenLabs voice agent, Cloudflare Workers (Agents SDK), n8n... | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
-| 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Ai · Byok · FastAPI | Open-source, self-hostable AI resume screening workspace with job-specific rubrics, evidence-backed scoring,... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
