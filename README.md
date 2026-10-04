@@ -17,7 +17,7 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
-| ⚡ **[Macron Pos](https://github.com/MAhsaanUllah/Macron-POS)** | Python | Active development and engineering build | [Showcase](https://github.com/MAhsaanUllah/Macron-POS) |
+| ⚡ **[Macaron Pos](https://github.com/MAhsaanUllah/Macaron-POS)** | Alpinejs · Bakery · Electron | Offline-first counter POS for Pakistani mithai & bakery shops — Electron shell, portable PHP 8.4, Laravel 11,... | [Showcase](https://github.com/MAhsaanUllah/Macaron-POS) |
 | ⚡ **[Peepdesk](https://github.com/MAhsaanUllah/PeepDesk)** | Desktop App · Desktop Pet · Electron | Ultra-lightweight Windows desktop companion: a floating animated pet, hydration & chai-break reminders, and an... | [Showcase](https://github.com/MAhsaanUllah/PeepDesk) |
 | 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | Product code is private. This repository documents the architecture, key decisions and workflow exports. | [Live App](https://tarkabot.online) |
 <!-- RECENT_PROJECTS:END -->
