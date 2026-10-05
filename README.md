@@ -17,12 +17,12 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
-| 🧁 **[Macaron POS](https://github.com/MAhsaanUllah/Macaron-POS)** | Laravel 11 · Electron · SQLite · PHP 8.4 | Offline-first counter POS for Pakistani mithai & bakery shops with FIFO batches, fractional weight billing & Z-Reports | [Showcase](https://github.com/MAhsaanUllah/Macaron-POS) |
 | 🎙️ **[DispatchAI](https://github.com/MAhsaanUllah/DispatchAI)** | ElevenLabs · Cloudflare · n8n · React | Voice-assisted field dispatch for Austin HVAC & plumbing with ElevenLabs AI, n8n workflows & Cloudflare SQLite DO | [Showcase](https://github.com/MAhsaanUllah/DispatchAI) |
 | 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | FastAPI · Python · PII Redaction · React | Self-hostable, evidence-backed candidate resume screening workspace for HR teams with 100-pt rubrics & prompt defense | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
-| ⭐ **[PeepDesk](https://github.com/MAhsaanUllah/PeepDesk)** | Electron · TypeScript · Tailwind CSS | Ultra-lightweight Windows desktop companion: floating animated pet (Fluffy Star), hydration alerts & infinite canvas | [Showcase](https://github.com/MAhsaanUllah/PeepDesk) |
-| 🤖 **[Insightgenie](https://github.com/MAhsaanUllah/InsightGenie)** | AI Agent · Data Analysis · DuckDB | Privacy-first autonomous AI Data Analyst. Chat with CSV, JSON & SQLite via natural language with DuckDB, Groq LPU,... | [Live App](https://github.com/MAhsaanUllah/InsightGenie#readme) |
 | 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | TarkaBot is an AI-powered, multi-tenant Restaurant Operating System. It automates WhatsApp orders using custom NLP... | [Live App](https://tarkabot.online) |
+| 🤖 **[Insightgenie](https://github.com/MAhsaanUllah/InsightGenie)** | AI Agent · Data Analysis · DuckDB | Privacy-first autonomous AI Data Analyst. Chat with CSV, JSON & SQLite via natural language with DuckDB, Groq LPU,... | [Live App](https://github.com/MAhsaanUllah/InsightGenie#readme) |
+| 🧁 **[Macaron POS](https://github.com/MAhsaanUllah/Macaron-POS)** | Laravel 11 · Electron · SQLite · PHP 8.4 | Offline-first counter POS for Pakistani mithai & bakery shops with FIFO batches, fractional weight billing & Z-Reports | [Showcase](https://github.com/MAhsaanUllah/Macaron-POS) |
+| ⭐ **[PeepDesk](https://github.com/MAhsaanUllah/PeepDesk)** | Electron · TypeScript · Tailwind CSS | Ultra-lightweight Windows desktop companion: floating animated pet (Fluffy Star), hydration alerts & infinite canvas | [Showcase](https://github.com/MAhsaanUllah/PeepDesk) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
