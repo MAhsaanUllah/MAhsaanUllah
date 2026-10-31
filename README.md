@@ -17,9 +17,9 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
+| 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | Product code is private. This repository documents the architecture, key decisions and workflow exports. | [Live App](https://tarkabot.online) |
 | ⚡ **[PeepDesk](https://github.com/MAhsaanUllah/PeepDesk)** | Desktop App · Desktop Pet · Electron | Ultra-lightweight Windows desktop companion: a floating animated pet, hydration & chai-break reminders, and an... | [Showcase](https://github.com/MAhsaanUllah/PeepDesk) |
 | 📄 **[Llm Pulse Gateway](https://github.com/MAhsaanUllah/LLM-Pulse-Gateway)** | Ai Gateway · Byok · Embeddings | Local-first LLM routing gateway — semantic cache → local Ollama model → cost-aware cloud fallback cascade, with... | [Showcase](https://github.com/MAhsaanUllah/LLM-Pulse-Gateway) |
-| ⚡ **[Macaron POS](https://github.com/MAhsaanUllah/Macaron-POS)** | Alpine.js · Bakery · Electron | Offline-first counter POS for Pakistani mithai & bakery shops — Electron shell, portable PHP 8.4, Laravel 11,... | [Showcase](https://github.com/MAhsaanUllah/Macaron-POS) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
