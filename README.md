@@ -17,9 +17,9 @@
 <!-- RECENT_PROJECTS:START -->
 | Project | Tech Core | Focus & Engineering Highlights | Live / Showcase |
 | :--- | :--- | :--- | :---: |
+| 👁️ **[ScreenOS](https://github.com/MAhsaanUllah/ScreenOS)** | Ai · Byok · FastAPI | Open-source, self-hostable AI resume screening workspace with job-specific rubrics, evidence-backed scoring,... | [Showcase](https://github.com/MAhsaanUllah/ScreenOS) |
 | 🤖 **[TarkaBot SaaS](https://github.com/MAhsaanUllah/TarkaBot-SaaS-Showcase)** | DeepSeek · DevSecOps · FastAPI | Product code is private. This repository documents the architecture, key decisions and workflow exports. | [Live App](https://tarkabot.online) |
 | ⚡ **[PeepDesk](https://github.com/MAhsaanUllah/PeepDesk)** | Desktop App · Desktop Pet · Electron | Ultra-lightweight Windows desktop companion: a floating animated pet, hydration & chai-break reminders, and an... | [Showcase](https://github.com/MAhsaanUllah/PeepDesk) |
-| 📄 **[Llm Pulse Gateway](https://github.com/MAhsaanUllah/LLM-Pulse-Gateway)** | Ai Gateway · Byok · Embeddings | Local-first LLM routing gateway — semantic cache → local Ollama model → cost-aware cloud fallback cascade, with... | [Showcase](https://github.com/MAhsaanUllah/LLM-Pulse-Gateway) |
 <!-- RECENT_PROJECTS:END -->
 
 ---
